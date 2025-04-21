@@ -1,6 +1,9 @@
 # VLSI_FinalProject
 
-Group 3: Undergraduate Section
+Group 3: 
+
+Undergraduate Section
+
 Gonzalo Gonzalez, Ameer Hakim, Frank Gomez
 
 TO REMOVE LOCKS RUN THESE COMMANDS:
