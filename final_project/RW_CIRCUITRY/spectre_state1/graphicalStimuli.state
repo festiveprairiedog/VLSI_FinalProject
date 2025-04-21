@@ -521,9 +521,9 @@
 	)
     )
 )
-((name "WE") 
+((name "WR") 
     (nodes 
-	("WE" "/gnd!")
+	("WR" "/gnd!")
     ) 
     (enabled t) 
     (tranType "pulse") 
