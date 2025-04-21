@@ -1,0 +1,19 @@
+;----------------------------------------------------------------------------
+; @(#)$CDS: assura version av4.1:Production:dfII6.1.8-64b:IC6.1.8-64b.500.35 07/29/24 05:07 (sjfhw885) $
+; sub-version 4.1_USR7_main
+;----------------------------------------------------------------------------
+
+
+;----------------------------------------------------------------------------
+; avParameter Section
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+avParameters(
+  ?inputLayout ( "df2" "final_project" )
+  ?cellName "NAND3"
+  ?viewName "layout"
+  ?workingDirectory "./final_project/NAND3"
+  ?rulesFile "/ecel/apps/cds/IC618/local/GPDK045/gpdk045/divaDRC.rul"
+  ?avrpt t
+)
