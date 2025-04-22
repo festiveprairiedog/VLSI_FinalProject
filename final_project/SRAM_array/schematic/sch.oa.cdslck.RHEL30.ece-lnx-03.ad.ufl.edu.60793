@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ameerhakim
+HostName                       ece-lnx-03.ad.ufl.edu
+ProcessIdentifier              60793
+ProcessCreationTime_UTC        1745251200
+ProcessCreationTime_Readable   Mon Apr 21 12:00:00 2025 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /ecel/UFAD/ameerhakim/Desktop/VLSI/final_project/final_project/SRAM_array/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Apr 21 21:17:34 2025 EDT
