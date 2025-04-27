@@ -1,0 +1,43 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII6.1.8-64b:IC6.1.8-64b.500.35 07/29/2024 05:39 (sjfhw885) $
+sub-version 4.1_USR7_main, integ signature 2024-07-29-0506
+run on ece-lnx-05 at Fri Apr 25 23:10:45 2025
+
+Schematic                               | Layout                               | Status
+-----------------------------------------------------------------------------------------
+INV schematic final_project             | INV layout final_project             | matched
+TRI_STATE_BUFFER schematic final_project| TRI_STATE_BUFFER layout final_project| matched
+RW_CIRCUITRY schematic final_project    | RW_CIRCUITRY layout final_project    | matched
+SENSE_AMP schematic final_project       | SENSE_AMP layout final_project       | matched
+NAND2 schematic final_project           | NAND2 layout final_project           | matched
+COLUMN_MUX schematic final_project      | COLUMN_MUX layout final_project      | matched
+ROW_DECODER schematic final_project     | ROW_DECODER layout final_project     | matched
+SRAM_cell schematic final_project       | SRAM_cell layout final_project       | matched
+SRAM_array schematic final_project      | SRAM_array layout final_project      | matched
+
+Schematic and Layout Match
+
+Schematic:
+  Library:final_project
+  Cell   :SRAM_array
+  View   :schematic
+
+Layout:
+  Library:final_project
+  Cell   :SRAM_array
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+
